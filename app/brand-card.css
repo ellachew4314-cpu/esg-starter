@@ -1,0 +1,6 @@
+.v2-brand-card{margin:0 9vw;padding:20px 20px 21px;border:1px solid var(--v2-line);border-radius:22px;background:#fff;box-shadow:0 16px 36px rgba(15,47,73,.08)}
+.v2-brand-card img{display:block;width:100%;border-radius:13px;aspect-ratio:1200/630;object-fit:cover}
+.v2-brand-card div{display:flex;align-items:baseline;justify-content:space-between;gap:20px;padding:16px 4px 0}
+.v2-brand-card span{font-size:9px;letter-spacing:1.25px;color:var(--v2-teal);font-weight:800}
+.v2-brand-card p{margin:0;color:var(--v2-navy);font-size:14px;font-weight:700}
+@media(max-width:600px){.v2-brand-card{margin:0 6vw;padding:10px;border-radius:16px}.v2-brand-card div{display:block;padding:12px 4px 2px}.v2-brand-card p{margin-top:5px;font-size:12px}}
